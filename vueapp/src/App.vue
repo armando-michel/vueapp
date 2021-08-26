@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <h1>Boton de Colores</h1>
+  <h1>Aprete el Boton para cambiar de Colores</h1>
   <button @click="color='red'" style="color:red">Rojo</button>
   <button @click="color='blue'" style="color:blue">Azul</button>
   <button @click="color='green'" style="color:green">Verde</button>
